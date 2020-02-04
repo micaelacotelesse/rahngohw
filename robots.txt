@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeheeleed.glamourbazaar.co.uk/sitemap.xml
